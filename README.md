@@ -1,16 +1,26 @@
-### Hi there 👋
+### Opa, eu sou o Maycon Do Carmo 👋🏻
 
-<!--
-**MayconDoCarmo/MayconDoCarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1"/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Sobre mim</h3>
+
+- 🤔 Um dia buscando soluções para o meu dia a dia, acabei me **APAIXONANDO** por tecnlogia.
+- 🎓 No momento estou cursando **ANALISE E DESENVOLVIMENTO DE SISTEMAS**.
+- 💼 Ainda não estou trabalhando na área mas **ESTOU ESTUDANDO** para ser um desenvolvedor.
+- 🌱 &nbsp; Aprendendo mais sobre **REACT**.
+---
+
+## 🚀 Tecnologias do meu dia a dia
+
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+
+
+---
+
+## ⭐ Informações sobre o meu GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayconDoCarmo&show_icons=true&theme=transparent)
