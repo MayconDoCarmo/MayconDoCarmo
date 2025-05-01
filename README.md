@@ -1,4 +1,4 @@
-![GIF local](/assets/Hanover%20e%20Tavares%20Tecnologia.gif)
+![GIF local](/assets/banner.gif)
 
 <br>
 <br>
