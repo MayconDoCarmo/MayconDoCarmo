@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ![GIF local](/assets/banner.gif)
 
 <br>
@@ -6,14 +6,14 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=MayconDoCarmo&show_icons=true&hide_border=true&hide=contribs&title_color=42C920&icon_color=42C920&bg_color=000000&text_color=ffffff&locale=pt-br&rank_icon=github" align="right">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=42C920&width=435&height=29&lines=Ol%C3%A1%2C+eu+sou+o+Maycon+Do+Carmo!%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=42C920&width=323&height=25&lines=Ol%C3%A1%2C+eu+sou+Maycon+Do+Carmo!%F0%9F%91%8B%F0%9F%8F%BB+)](https://git.io/typing-svg)
 
 <h3 align="left">
   <img src="assets/check-icon.png" width="15">
       Desenvolvedor Full Stack Java/Angular 🖥️
        <br> 
   <img src="assets/check-icon.png" width="15">
-      Cursando Análise e Desenvolvimento De Sistemas 🎓<br>
+      Cursando Análise e Desenvolvimento 🎓<br>
   <img src="assets/check-icon.png" width="15">
       Vivendo no Rio De Janeiro 🏖️ <br>
   <img src="assets/check-icon.png" width="15">
