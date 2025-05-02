@@ -16,7 +16,7 @@
   <img src="assets/check-icon.png" width="15">
       Vivendo no Rio De Janeiro 🏖️ <br>
   <img src="assets/check-icon.png" width="15">
-      Aprendendo mais sobre microsserviços 🧱 <br>
+      Aprendendo sobre: Microsserviços 🧱 <br>
 </h3>
 <br>
 <hr>
