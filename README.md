@@ -38,6 +38,6 @@
 <br>
 
 <hr>
-<br>
+
 <img src="https://nirzak-streak-stats.vercel.app/?user=MayconDoCarmo&hide_border=true&layout=compact&background=000000&ring=42C920&fire=42C920&currStreakNum=42C920&sideNums=42C920&currStreakLabel=42C920&sideLabels=42C920&dates=ffffff&locale=pt-br" width="56%" height="50%" align="right">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconDoCarmo&hide_border=true&layout=compact&title_color=42C920&icon_color=42C920&bg_color=000000&text_color=ffffff&locale=pt-br" width="40%" height="40%" align="center"> <br>
