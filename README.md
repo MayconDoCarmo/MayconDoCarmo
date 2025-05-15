@@ -22,7 +22,7 @@
 <hr>
 <br>
 <br>
-<img src="./assets/3WYE.gif" width="300" align="right">
+<img src="./assets/3WYE.gif" width="280" align="right">
 <h3 align="left">
   Tecnologias do meu dia a dia 🚀
   
