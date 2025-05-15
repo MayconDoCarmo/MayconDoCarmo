@@ -9,7 +9,7 @@
 
 <h3 align="left">
   <img src="assets/check-icon.png" width="15">
-      Desenvolvedor Full Stack Java/Angular 🖥️
+      Desenvolvedor Full Stack Angular 🖥️
        <br> 
   <img src="assets/check-icon.png" width="15">
       Cursando Análise e Desenvolvimento 🎓<br>
@@ -31,7 +31,7 @@
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,angular,js,html,css,bootstrap,jenkins,docker" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=angular,java,php,spring,typescript,js,bootstrap,html,css," alt="My Skills">
   </a>
 </p>
 
